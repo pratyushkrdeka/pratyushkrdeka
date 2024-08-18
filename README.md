@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @pratyushkrdeka
-- 👀 I’m interested in learning DevOps and Machine Learning
+## Hi there, I'm Pratyush 👋
+
+- 👀 I’m interested in learning DevOps, Machine Learning, MLOps, GenAI 
 - 🌱 I’m currently learning Kubernetes.
-- 💞️ I’m looking to collaborate on problems related to ML
+- 💞️ I’m looking to collaborate on problems related to MLOps and GenAI
 - 📫 How to reach me pratyush.kr.deka@gmail.com
 
 <!---
